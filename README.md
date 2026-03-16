@@ -111,9 +111,11 @@ Random Forest performed best due to its ability to capture complex patterns and 
 
 ## 📂 Dataset
 
-Mental health survey dataset containing demographic and psychological factors.
+download datasets from Kaggle :
 
-Upload the dataset file (`survey.csv`) in the project directory before running the code.
+1. 'Mental_health_Prediction' 
+
+2. 'survey.csv'
 
 ---
 
